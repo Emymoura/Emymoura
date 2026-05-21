@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, my name is Emily Moura.</h1>
 <h3 align="center">Computer Engineering student residing in Cornélio Procópio, Paraná, Brazil.</h3>
-<p align="center">Currently, I am an undergraduate research student in the field of Bioinformatics. I enjoy studying the Python programming language and am learning histopathological image preprocessing using the OpenSlide library.</p>
+<p align="center">Currently, I am an undergraduate research student in the field of Bioinformatics. I enjoy studying the Python programming language and am learning histopathological image preprocessing.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emymoura&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Emymoura" /> </p>
 
