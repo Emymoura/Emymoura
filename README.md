@@ -17,3 +17,5 @@
 <h3 align="left">Get in touch with me:</h3>
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:emilyvitorya200@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Emymoura)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emily-vitorya-de-moura-ab799b273)
